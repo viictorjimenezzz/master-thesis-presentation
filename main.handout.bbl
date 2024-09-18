@@ -1,0 +1,81 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Addepalli et~al.(2022)Addepalli, Jain, Sriramanan, and
+  Babu]{Addepalli2022ScalingAT}
+Sravanti Addepalli, Samyak Jain, Gaurang Sriramanan, and R.~Venkatesh Babu.
+\newblock Scaling adversarial training to large perturbation bounds.
+\newblock In \emph{European Conference on Computer Vision}, 2022.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:252968354}.
+
+\bibitem[Athalye et~al.(2018)Athalye, Carlini, and Wagner]{AthalyeC018}
+Anish Athalye, Nicholas Carlini, and David~A. Wagner.
+\newblock Obfuscated gradients give a false sense of security: Circumventing
+  defenses to adversarial examples.
+\newblock In \emph{International Conference on Machine Learning}, volume~80,
+  pages 274--283. {PMLR}, 2018.
+
+\bibitem[Croce et~al.()Croce, Andriushchenko, Sehwag, Debenedetti, Flammarion,
+  Chiang, Mittal, and Hein]{croceRobustBenchStandardizedAdversarial2021a}
+Francesco Croce, Maksym Andriushchenko, Vikash Sehwag, Edoardo Debenedetti,
+  Nicolas Flammarion, Mung Chiang, Prateek Mittal, and Matthias Hein.
+\newblock {{RobustBench}}: A standardized adversarial robustness benchmark.
+\newblock URL \url{http://arxiv.org/abs/2010.09670}.
+
+\bibitem[Engstrom et~al.(2019)Engstrom, Ilyas, Santurkar, Tsipras, Tran, and
+  Madry]{engstrom2019adversarial}
+Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Brandon
+  Tran, and Aleksander Madry.
+\newblock Adversarial robustness as a prior for learned representations, 2019.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{resnet50}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Computer Vision and Pattern Recognition}, pages 770--778.
+  {IEEE} Computer Society, 2016.
+
+\bibitem[Krizhevsky()]{krizhevskyLearningMultipleLayers}
+Alex Krizhevsky.
+\newblock Learning {{Multiple Layers}} of {{Features}} from {{Tiny Images}}.
+
+\bibitem[Madry et~al.()Madry, Makelov, Schmidt, Tsipras, and
+  Vladu]{madryDeepLearningModels2019}
+Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and
+  Adrian Vladu.
+\newblock Towards {{Deep Learning Models Resistant}} to {{Adversarial
+  Attacks}}.
+\newblock URL \url{http://arxiv.org/abs/1706.06083}.
+
+\bibitem[Pintor et~al.()Pintor, Roli, Brendel, and
+  Biggio]{pintorFastMinimumnormAdversarial2021}
+Maura Pintor, Fabio Roli, Wieland Brendel, and Battista Biggio.
+\newblock Fast {{Minimum-norm Adversarial Attacks}} through {{Adaptive Norm
+  Constraints}}.
+\newblock URL \url{http://arxiv.org/abs/2102.12827}.
+
+\bibitem[Wang et~al.(2023)Wang, Pang, Du, Lin, Liu, and
+  Yan]{wang2023betterdiffusionmodelsimprove}
+Zekai Wang, Tianyu Pang, Chao Du, Min Lin, Weiwei Liu, and Shuicheng Yan.
+\newblock Better diffusion models further improve adversarial training, 2023.
+\newblock URL \url{https://arxiv.org/abs/2302.04638}.
+
+\bibitem[Wong et~al.(2020)Wong, Rice, and Kolter]{WongRK20}
+Eric Wong, Leslie Rice, and J.~Zico Kolter.
+\newblock Fast is better than free: Revisiting adversarial training.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+
+\bibitem[Zagoruyko and Komodakis(2016)]{BMVC2016_87}
+Sergey Zagoruyko and Nikos Komodakis.
+\newblock Wide residual networks.
+\newblock In Edwin R.~Hancock Richard C.~Wilson and William A.~P. Smith,
+  editors, \emph{Proceedings of the British Machine Vision Conference (BMVC)},
+  pages 87.1--87.12. BMVA Press, September 2016.
+\newblock ISBN 1-901725-59-6.
+\newblock \doi{10.5244/C.30.87}.
+\newblock URL \url{https://dx.doi.org/10.5244/C.30.87}.
+
+\end{thebibliography}

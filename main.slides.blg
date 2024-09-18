@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.slides.aux
+The style file: plainnat.bst
+Database file #1: bibliography.bib
+Warning--entry type for "arjovskyInvariantRiskMinimization2020" isn't style-file defined
+--line 1 of file bibliography.bib
+Warning--entry type for "croceRobustBenchStandardizedAdversarial2021a" isn't style-file defined
+--line 274 of file bibliography.bib
+Warning--entry type for "euligDiagViB6DiagnosticBenchmark2021" isn't style-file defined
+--line 316 of file bibliography.bib
+Warning--entry type for "kingmaAdamMethodStochastic2017" isn't style-file defined
+--line 570 of file bibliography.bib
+Warning--entry type for "kohWILDSBenchmarkIntheWild2021" isn't style-file defined
+--line 587 of file bibliography.bib
+Warning--entry type for "madryDeepLearningModels2019" isn't style-file defined
+--line 765 of file bibliography.bib
+Warning--entry type for "pintorFastMinimumnormAdversarial2021" isn't style-file defined
+--line 874 of file bibliography.bib
+Warning--entry type for "yaoImprovingOutofDistributionRobustness2022" isn't style-file defined
+--line 1364 of file bibliography.bib
+Warning--entry type for "yunCutMixRegularizationStrategy2019" isn't style-file defined
+--line 1380 of file bibliography.bib
+Warning--entry type for "zhangMixupEmpiricalRisk2018" isn't style-file defined
+--line 1433 of file bibliography.bib
+Warning--empty year in arjovskyInvariantRiskMinimization2020
+Warning--empty year in croceRobustBenchStandardizedAdversarial2021a
+Warning--empty year in euligDiagViB6DiagnosticBenchmark2021
+Warning--empty year in kingmaAdamMethodStochastic2017
+Warning--empty year in kohWILDSBenchmarkIntheWild2021
+Warning--empty journal in krizhevskyLearningMultipleLayers
+Warning--empty year in krizhevskyLearningMultipleLayers
+Warning--empty year in krizhevskyLearningMultipleLayers
+Warning--empty year in madryDeepLearningModels2019
+Warning--empty year in pintorFastMinimumnormAdversarial2021
+Warning--empty year in yaoImprovingOutofDistributionRobustness2022
+Warning--empty year in yunCutMixRegularizationStrategy2019
+Warning--empty year in zhangMixupEmpiricalRisk2018
+You've used 18 entries,
+            2773 wiz_defined-function locations,
+            695 strings with 9589 characters,
+and the built_in function-call counts, 10540 in all, are:
+= -- 835
+> -- 951
+< -- 7
++ -- 317
+- -- 299
+* -- 929
+:= -- 1640
+add.period$ -- 59
+call.type$ -- 18
+change.case$ -- 153
+chr.to.int$ -- 18
+cite$ -- 49
+duplicate$ -- 358
+empty$ -- 674
+format.name$ -- 321
+if$ -- 2163
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 100
+num.names$ -- 74
+pop$ -- 378
+preamble$ -- 1
+purify$ -- 135
+quote$ -- 0
+skip$ -- 360
+stack$ -- 0
+substring$ -- 139
+swap$ -- 53
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 13
+while$ -- 63
+width$ -- 0
+write$ -- 223
+(There were 23 warnings)

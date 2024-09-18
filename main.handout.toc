@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{The robustness challenge}{3}{0}{1}
+\beamer@sectionintoc {2}{Learning framework}{5}{0}{2}
+\beamer@sectionintoc {3}{Posterior Agreement}{9}{0}{3}
+\beamer@sectionintoc {4}{Adversarial setting}{20}{0}{4}
+\beamer@sectionintoc {5}{Out-of-distribution setting}{23}{0}{5}
+\beamer@sectionintoc {6}{Model}{24}{0}{6}
+\beamer@sectionintoc {7}{Analysis}{25}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{26}{0}{8}

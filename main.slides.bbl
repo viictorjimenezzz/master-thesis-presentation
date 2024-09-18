@@ -1,0 +1,134 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Addepalli et~al.(2022)Addepalli, Jain, Sriramanan, and
+  Babu]{Addepalli2022ScalingAT}
+Sravanti Addepalli, Samyak Jain, Gaurang Sriramanan, and R.~Venkatesh Babu.
+\newblock Scaling adversarial training to large perturbation bounds.
+\newblock In \emph{European Conference on Computer Vision}, 2022.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:252968354}.
+
+\bibitem[Arjovsky et~al.()Arjovsky, Bottou, Gulrajani, and
+  Lopez-Paz]{arjovskyInvariantRiskMinimization2020}
+Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, and David Lopez-Paz.
+\newblock Invariant {{Risk Minimization}}.
+\newblock URL \url{http://arxiv.org/abs/1907.02893}.
+
+\bibitem[Athalye et~al.(2018)Athalye, Carlini, and Wagner]{AthalyeC018}
+Anish Athalye, Nicholas Carlini, and David~A. Wagner.
+\newblock Obfuscated gradients give a false sense of security: Circumventing
+  defenses to adversarial examples.
+\newblock In \emph{International Conference on Machine Learning}, volume~80,
+  pages 274--283. {PMLR}, 2018.
+
+\bibitem[Croce et~al.()Croce, Andriushchenko, Sehwag, Debenedetti, Flammarion,
+  Chiang, Mittal, and Hein]{croceRobustBenchStandardizedAdversarial2021a}
+Francesco Croce, Maksym Andriushchenko, Vikash Sehwag, Edoardo Debenedetti,
+  Nicolas Flammarion, Mung Chiang, Prateek Mittal, and Matthias Hein.
+\newblock {{RobustBench}}: A standardized adversarial robustness benchmark.
+\newblock URL \url{http://arxiv.org/abs/2010.09670}.
+
+\bibitem[Engstrom et~al.(2019)Engstrom, Ilyas, Santurkar, Tsipras, Tran, and
+  Madry]{engstrom2019adversarial}
+Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Brandon
+  Tran, and Aleksander Madry.
+\newblock Adversarial robustness as a prior for learned representations, 2019.
+
+\bibitem[Eulig et~al.()Eulig, Saranrittichai, Mummadi, Rambach, Beluch, Shi,
+  and Fischer]{euligDiagViB6DiagnosticBenchmark2021}
+Elias Eulig, Piyapat Saranrittichai, Chaithanya~Kumar Mummadi, Kilian Rambach,
+  William Beluch, Xiahan Shi, and Volker Fischer.
+\newblock {{DiagViB-6}}: {{A Diagnostic Benchmark Suite}} for {{Vision Models}}
+  in the {{Presence}} of {{Shortcut}} and {{Generalization Opportunities}}.
+\newblock URL \url{http://arxiv.org/abs/2108.05779}.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{resnet50}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In \emph{Computer Vision and Pattern Recognition}, pages 770--778.
+  {IEEE} Computer Society, 2016.
+
+\bibitem[Kingma and Ba()]{kingmaAdamMethodStochastic2017}
+Diederik~P. Kingma and Jimmy Ba.
+\newblock Adam: {{A Method}} for {{Stochastic Optimization}}.
+\newblock URL \url{http://arxiv.org/abs/1412.6980}.
+
+\bibitem[Koh et~al.()Koh, Sagawa, Marklund, Xie, Zhang, Balsubramani, Hu,
+  Yasunaga, Phillips, Gao, Lee, David, Stavness, Guo, Earnshaw, Haque, Beery,
+  Leskovec, Kundaje, Pierson, Levine, Finn, and
+  Liang]{kohWILDSBenchmarkIntheWild2021}
+Pang~Wei Koh, Shiori Sagawa, Henrik Marklund, Sang~Michael Xie, Marvin Zhang,
+  Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard~Lanas Phillips,
+  Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton~A.
+  Earnshaw, Imran~S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma
+  Pierson, Sergey Levine, Chelsea Finn, and Percy Liang.
+\newblock {{WILDS}}: {{A Benchmark}} of in-the-{{Wild Distribution Shifts}}.
+\newblock URL \url{http://arxiv.org/abs/2012.07421}.
+
+\bibitem[Krizhevsky()]{krizhevskyLearningMultipleLayers}
+Alex Krizhevsky.
+\newblock Learning {{Multiple Layers}} of {{Features}} from {{Tiny Images}}.
+
+\bibitem[Madry et~al.()Madry, Makelov, Schmidt, Tsipras, and
+  Vladu]{madryDeepLearningModels2019}
+Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and
+  Adrian Vladu.
+\newblock Towards {{Deep Learning Models Resistant}} to {{Adversarial
+  Attacks}}.
+\newblock URL \url{http://arxiv.org/abs/1706.06083}.
+
+\bibitem[Pintor et~al.()Pintor, Roli, Brendel, and
+  Biggio]{pintorFastMinimumnormAdversarial2021}
+Maura Pintor, Fabio Roli, Wieland Brendel, and Battista Biggio.
+\newblock Fast {{Minimum-norm Adversarial Attacks}} through {{Adaptive Norm
+  Constraints}}.
+\newblock URL \url{http://arxiv.org/abs/2102.12827}.
+
+\bibitem[Wang et~al.(2023)Wang, Pang, Du, Lin, Liu, and
+  Yan]{wang2023betterdiffusionmodelsimprove}
+Zekai Wang, Tianyu Pang, Chao Du, Min Lin, Weiwei Liu, and Shuicheng Yan.
+\newblock Better diffusion models further improve adversarial training, 2023.
+\newblock URL \url{https://arxiv.org/abs/2302.04638}.
+
+\bibitem[Wong et~al.(2020)Wong, Rice, and Kolter]{WongRK20}
+Eric Wong, Leslie Rice, and J.~Zico Kolter.
+\newblock Fast is better than free: Revisiting adversarial training.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+
+\bibitem[Yao et~al.()Yao, Wang, Li, Zhang, Liang, Zou, and
+  Finn]{yaoImprovingOutofDistributionRobustness2022}
+Huaxiu Yao, Yu~Wang, Sai Li, Linjun Zhang, Weixin Liang, James Zou, and Chelsea
+  Finn.
+\newblock Improving {{Out-of-Distribution Robustness}} via {{Selective
+  Augmentation}}.
+\newblock URL \url{http://arxiv.org/abs/2201.00299}.
+
+\bibitem[Yun et~al.()Yun, Han, Oh, Chun, Choe, and
+  Yoo]{yunCutMixRegularizationStrategy2019}
+Sangdoo Yun, Dongyoon Han, Seong~Joon Oh, Sanghyuk Chun, Junsuk Choe, and
+  Youngjoon Yoo.
+\newblock {{CutMix}}: {{Regularization Strategy}} to {{Train Strong
+  Classifiers}} with {{Localizable Features}}.
+\newblock URL \url{http://arxiv.org/abs/1905.04899}.
+
+\bibitem[Zagoruyko and Komodakis(2016)]{BMVC2016_87}
+Sergey Zagoruyko and Nikos Komodakis.
+\newblock Wide residual networks.
+\newblock In Edwin R.~Hancock Richard C.~Wilson and William A.~P. Smith,
+  editors, \emph{Proceedings of the British Machine Vision Conference (BMVC)},
+  pages 87.1--87.12. BMVA Press, September 2016.
+\newblock ISBN 1-901725-59-6.
+\newblock \doi{10.5244/C.30.87}.
+\newblock URL \url{https://dx.doi.org/10.5244/C.30.87}.
+
+\bibitem[Zhang et~al.()Zhang, Cisse, Dauphin, and
+  Lopez-Paz]{zhangMixupEmpiricalRisk2018}
+Hongyi Zhang, Moustapha Cisse, Yann~N. Dauphin, and David Lopez-Paz.
+\newblock Mixup: {{Beyond Empirical Risk Minimization}}.
+\newblock URL \url{http://arxiv.org/abs/1710.09412}.
+
+\end{thebibliography}
