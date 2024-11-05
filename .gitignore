@@ -1,0 +1,21 @@
+.build
+*.aux
+*.nav
+*.bbl
+*.fdb_latexmk
+*.blg
+*.log
+*.out
+*.snm
+*.gz
+*.toc
+*.fls
+*.
+
+
+main.handout.log
+main.handout.fls
+
+# Presentation scripts:
+presentation-script.md
+presentation-script-fme.md
